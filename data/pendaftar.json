@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nama": "Pendaftar 1",
+    "email": "pendaftar1@email.com",
+    "telepon": "081234567001",
+    "divisi": "Nama Divisi",
+    "alasan": "Alasan ingin bergabung.",
+    "tanggal": "2025-01-01",
+    "status": "PENDING"
+  }
+]

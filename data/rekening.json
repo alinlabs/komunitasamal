@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "bank": "Bank A",
+    "nomor": "1234567890",
+    "atas_nama": "Nama Organisasi",
+    "warna": "blue"
+  },
+  {
+    "id": 2,
+    "bank": "E-Wallet",
+    "nomor": "081234567890",
+    "atas_nama": "Bendahara",
+    "warna": "green"
+  }
+]

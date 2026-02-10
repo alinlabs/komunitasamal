@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nama": "Super Admin",
+    "email": "admin@komunitas.org",
+    "kata_sandi": "admin",
+    "peran": "Super Admin",
+    "terakhir_login": "2025-01-01 10:00"
+  },
+  {
+    "id": 2,
+    "nama": "Editor Konten",
+    "email": "editor@komunitas.org",
+    "kata_sandi": "editor",
+    "peran": "Editor",
+    "terakhir_login": "2025-01-01 14:30"
+  }
+]

@@ -1,0 +1,87 @@
+
+{
+  "pimpinan": [
+    {
+      "nama": "Nama Pendiri",
+      "jabatan": "Pendiri (Founder)",
+      "deskripsi": "Deskripsi singkat mengenai pendiri dan latar belakang inisiasi komunitas.",
+      "foto": "https://placehold.co/500x500/10b981/ffffff?text=Foto+Pendiri+Disini",
+      "ikon": "Award",
+      "warna_mulai": "emerald",
+      "warna_selesai": "teal"
+    },
+    {
+      "nama": "Nama Ketua",
+      "jabatan": "Ketua Umum",
+      "deskripsi": "Visi dan misi yang dibawa oleh ketua periode saat ini.",
+      "foto": "https://placehold.co/500x500/0ea5e9/ffffff?text=Foto+Ketua+Disini",
+      "ikon": "User",
+      "warna_mulai": "sky",
+      "warna_selesai": "blue"
+    }
+  ],
+  "pengurus": [
+    { 
+      "jabatan": "Sekretaris", 
+      "nama": "Nama Sekretaris", 
+      "foto": "https://placehold.co/300x300/10b981/ffffff?text=Foto+Disini",
+      "warna_border": "border-emerald-500" 
+    },
+    { 
+      "jabatan": "Bendahara", 
+      "nama": "Nama Bendahara", 
+      "foto": "https://placehold.co/300x300/0ea5e9/ffffff?text=Foto+Disini",
+      "warna_border": "border-sky-500" 
+    },
+    { 
+      "jabatan": "Koord. Bidang 1", 
+      "nama": "Nama Koordinator", 
+      "foto": "https://placehold.co/300x300/facc15/ffffff?text=Foto+Disini",
+      "warna_border": "border-yellow-400" 
+    },
+    { 
+      "jabatan": "Koord. Bidang 2", 
+      "nama": "Nama Koordinator", 
+      "foto": "https://placehold.co/300x300/10b981/ffffff?text=Foto+Disini",
+      "warna_border": "border-emerald-500" 
+    }
+  ],
+  "visi": {
+    "judul": "Visi",
+    "teks": "\"Tuliskan visi utama organisasi atau komunitas Anda di sini secara jelas dan inspiratif.\""
+  },
+  "misi": {
+    "judul": "Misi",
+    "daftar": [
+      "Poin misi pertama.",
+      "Poin misi kedua.",
+      "Poin misi ketiga."
+    ]
+  },
+  "sejarah": [
+    {
+      "tahun": "20XX",
+      "judul": "Pendirian",
+      "deskripsi": "Cerita singkat tentang awal mula berdirinya komunitas.",
+      "warna": "emerald"
+    },
+    {
+      "tahun": "20XX",
+      "judul": "Event Besar Pertama",
+      "deskripsi": "Deskripsi pencapaian atau event besar yang pernah dilakukan.",
+      "warna": "sky"
+    },
+    {
+      "tahun": "20XX",
+      "judul": "Transformasi",
+      "deskripsi": "Perubahan atau adaptasi yang dilakukan organisasi.",
+      "warna": "yellow"
+    },
+    {
+      "tahun": "Kini",
+      "judul": "Masa Sekarang",
+      "deskripsi": "Kondisi dan fokus organisasi saat ini.",
+      "warna": "emerald"
+    }
+  ]
+}

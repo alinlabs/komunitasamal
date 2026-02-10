@@ -1,0 +1,47 @@
+
+[
+  {
+    "id": 1,
+    "tanggal": "2025-01-05",
+    "keterangan": "Saldo Awal Tahun 2025",
+    "tipe": "MASUK",
+    "nominal": 5000000,
+    "kategori": "Modal",
+    "pj": "Bendahara"
+  },
+  {
+    "id": 2,
+    "tanggal": "2025-01-10",
+    "keterangan": "Bayar Kas: Uang Kas Bulanan (Jan 2025)",
+    "tipe": "MASUK",
+    "nominal": 20000,
+    "kategori": "Kewajiban Anggota",
+    "pj": "System",
+    "id_anggota_terkait": "KP-2023-001",
+    "nama_anggota": "Rizky Ramadhan",
+    "id_kewajiban_terkait": 1,
+    "periode": "2025-01"
+  },
+  {
+    "id": 3,
+    "tanggal": "2025-01-11",
+    "keterangan": "Bayar Kas: Uang Kas Bulanan (Jan 2025)",
+    "tipe": "MASUK",
+    "nominal": 20000,
+    "kategori": "Kewajiban Anggota",
+    "pj": "System",
+    "id_anggota_terkait": "KP-2023-002",
+    "nama_anggota": "Alya Putri",
+    "id_kewajiban_terkait": 1,
+    "periode": "2025-01"
+  },
+  {
+    "id": 4,
+    "tanggal": "2025-02-15",
+    "keterangan": "Pembelian ATK",
+    "tipe": "KELUAR",
+    "nominal": 150000,
+    "kategori": "Operasional",
+    "pj": "Sekretaris"
+  }
+]

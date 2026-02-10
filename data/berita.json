@@ -1,0 +1,30 @@
+
+[
+  {
+    "id": 1,
+    "judul": "Judul Berita atau Event",
+    "tanggal": "12 Februari 2025",
+    "penulis": "Admin",
+    "kategori": "Event",
+    "sampul": "https://placehold.co/800x400/10b981/ffffff?text=Gambar+Berita+Disini",
+    "ringkasan": "Ringkasan singkat mengenai berita atau kegiatan yang telah dilaksanakan oleh komunitas."
+  },
+  {
+    "id": 2,
+    "judul": "Judul Kegiatan Lainnya",
+    "tanggal": "05 Februari 2025",
+    "penulis": "Admin",
+    "kategori": "Kegiatan",
+    "sampul": "https://placehold.co/800x400/0ea5e9/ffffff?text=Gambar+Kegiatan+Disini",
+    "ringkasan": "Deskripsi singkat tentang kegiatan hunting foto, workshop, atau pertemuan rutin."
+  },
+  {
+    "id": 3,
+    "judul": "Pengumuman Penting",
+    "tanggal": "01 Januari 2025",
+    "penulis": "Sekretariat",
+    "kategori": "Info",
+    "sampul": "https://placehold.co/800x400/facc15/ffffff?text=Gambar+Pengumuman+Disini",
+    "ringkasan": "Informasi penting bagi anggota atau calon anggota, seperti jadwal pendaftaran atau perubahan aturan."
+  }
+]

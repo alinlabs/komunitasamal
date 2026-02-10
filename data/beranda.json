@@ -1,0 +1,51 @@
+
+{
+  "hero": {
+    "lencana": "Aksi Nyata Untuk Sesama",
+    "judul_awalan": "Merajut",
+    "judul_akhiran": "Kemanusiaan",
+    "deskripsi": "Bersama kita wujudkan harapan bagi mereka yang membutuhkan. Bergabunglah dalam gerakan kebaikan ini untuk masa depan yang lebih cerah.",
+    "tombol_utama": { "label": "Program Kami", "tautan": "/divisi" },
+    "tombol_sekunder": { "label": "Jadi Relawan", "tautan": "/daftar" },
+    "latar_belakang": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=1600&auto=format&fit=crop"
+  },
+  "seksi_profil": {
+    "lencana": "Misi Kami",
+    "judul": "Menebar Manfaat, Menguatkan Umat",
+    "gambar": "https://images.unsplash.com/photo-1593113598332-cd288d649433?q=80&w=1600&auto=format&fit=crop",
+    "statistik_angka": "500+",
+    "statistik_label": "Relawan Siaga",
+    "deskripsi_1": "Berdiri sejak 2010, Yayasan Harapan Bersama hadir sebagai respon terhadap berbagai krisis kemanusiaan dan kesenjangan sosial di masyarakat.",
+    "deskripsi_2": "Kami fokus pada pilar pendidikan, kesehatan, tanggap bencana, dan pemberdayaan ekonomi untuk menciptakan kemandirian.",
+    "tautan_aksi": "/profil",
+    "teks_aksi": "Kenali Kami Lebih Dekat"
+  },
+  "seksi_divisi": {
+    "judul": "Program & Layanan",
+    "deskripsi": "Berbagai inisiatif kemanusiaan yang kami jalankan untuk menjangkau penerima manfaat secara efektif.",
+    "tombol_label": "Lihat Semua Program"
+  },
+  "seksi_donasi": {
+    "judul": "Mari Berdonasi",
+    "deskripsi": "Salurkan bantuan terbaik Anda untuk program-program pilihan yang sedang berjalan saat ini.",
+    "tombol_label": "Lihat Semua Kampanye"
+  },
+  "seksi_berita": {
+    "judul": "Kabar Terbaru",
+    "deskripsi": "Update kegiatan lapangan, penyaluran bantuan, dan cerita inspiratif dari para relawan.",
+    "tombol_label": "Indeks Berita"
+  },
+  "seksi_anggota": {
+    "lencana": "Pahlawan Kebaikan",
+    "judul_baris_1": "Relawan &",
+    "judul_baris_2": "Tim Lapangan",
+    "tombol_label": "Gabung Relawan"
+  },
+  "cta": {
+    "lencana": "Kolaborasi",
+    "judul": "Satu Aksi Kecil, <br/> Dampak Besar.",
+    "deskripsi": "Jangan biarkan niat baik berhenti di hati. Salurkan bantuan atau tenagamu sekarang juga.",
+    "tombol_utama": "Donasi Sekarang",
+    "tombol_sekunder": "Daftar Relawan"
+  }
+}

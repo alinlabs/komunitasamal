@@ -1,0 +1,25 @@
+
+{
+  "nama_organisasi": "Komunitas",
+  "nama_panggilan": "Komunitas",
+  "deskripsi_singkat": "Wadah kolaborasi kreatif, sosial, dan pengembangan diri untuk menciptakan dampak positif bagi lingkungan sekitar.",
+  "logo": "https://imgur.com/m0E9Rwf.png",
+  "alamat": "Jl. Kemanusiaan No. 88, Kota Harapan, Indonesia",
+  "email": "info@komunitas.org",
+  "telepon": "+62 812-3456-7890",
+  "link_aplikasi_android": "https://play.google.com/store/apps",
+  "sosial_media": {
+    "instagram": "komunitas",
+    "facebook": "Komunitas Official",
+    "twitter": "komunitas_org",
+    "youtube": "https://youtube.com/@komunitas",
+    "linkedin": "https://linkedin.com/company/komunitas"
+  },
+  "footer_info": {
+    "copyright_text": "Tim IT Komunitas",
+    "copyright_year": "2025",
+    "copyright_link": "#",
+    "powered_by_text": "Ai Labs Indonesia",
+    "powered_by_link": "https://ailabs.my.id"
+  }
+}

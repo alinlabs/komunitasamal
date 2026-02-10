@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "judul": "Iuran Wajib Bulanan",
+    "nominal": 10000,
+    "frekuensi": "RUTIN",
+    "tenggat_tanggal": 10,
+    "deskripsi": "Wajib bagi seluruh anggota aktif."
+  },
+  {
+    "id": 2,
+    "judul": "Iuran Tahunan / Event",
+    "nominal": 50000,
+    "frekuensi": "SEKALI",
+    "tenggat_tanggal": 1,
+    "deskripsi": "Untuk keperluan acara khusus."
+  },
+  {
+    "id": 3,
+    "judul": "Donasi Sukarela",
+    "nominal": 0,
+    "frekuensi": "BERJANGKA",
+    "tanggal_mulai": "2025-01-01",
+    "tanggal_selesai": "2025-12-31",
+    "deskripsi": "Penggalangan dana untuk tujuan sosial."
+  }
+]

@@ -1,0 +1,77 @@
+
+{
+  "default": {
+    "title": "Komunitas | Wadah Kolaborasi",
+    "description": "Website resmi Komunitas. Wadah kolaborasi dan aksi sosial kreatif.",
+    "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Komunitas",
+    "keywords": "komunitas, sosial, kreatif, donasi, relawan"
+  },
+  "routes": {
+    "/": {
+      "title": "Beranda - Komunitas",
+      "description": "Platform aksi sosial dan kreatif. Kami menghubungkan anggota dan relawan untuk berkarya.",
+      "image": "https://placehold.co/1200x630/2563eb/ffffff?text=Beranda+Komunitas",
+      "keywords": "komunitas, beranda, info"
+    },
+    "/profil": {
+      "title": "Tentang Kami - Profil Komunitas",
+      "description": "Mengenal sejarah, visi, misi, dan struktur organisasi kami.",
+      "image": "https://placehold.co/1200x630/ec4899/ffffff?text=Profil+Komunitas",
+      "keywords": "profil, sejarah, visi misi"
+    },
+    "/divisi": {
+      "title": "Program & Divisi",
+      "description": "Informasi mengenai program kerja dan divisi kreatif kami.",
+      "image": "https://placehold.co/1200x630/06b6d4/ffffff?text=Program+Kami",
+      "keywords": "program, divisi, layanan"
+    },
+    "/anggota": {
+      "title": "Direktori Anggota",
+      "description": "Database profil anggota dan pengurus komunitas.",
+      "image": "https://placehold.co/1200x630/f97316/ffffff?text=Anggota+Kami",
+      "keywords": "anggota, tim, personel"
+    },
+    "/berita": {
+      "title": "Kabar & Kegiatan",
+      "description": "Update kegiatan, karya, dan event terbaru.",
+      "image": "https://placehold.co/1200x630/22c55e/ffffff?text=Berita+Komunitas",
+      "keywords": "berita, event, karya"
+    },
+    "/kerjasama": {
+      "title": "Partnership & Donasi",
+      "description": "Peluang kerjasama dan dukungan untuk komunitas.",
+      "image": "https://placehold.co/1200x630/eab308/ffffff?text=Kerjasama",
+      "keywords": "donasi, partner, sponsorship"
+    },
+    "/daftar": {
+      "title": "Pendaftaran Anggota Baru",
+      "description": "Formulir pendaftaran resmi anggota baru.",
+      "image": "https://placehold.co/1200x630/6366f1/ffffff?text=Daftar+Anggota",
+      "keywords": "daftar, rekrutmen, gabung"
+    },
+    "/login": {
+      "title": "Login Area",
+      "description": "Halaman masuk khusus untuk anggota dan pengurus.",
+      "image": "https://placehold.co/1200x630/0f172a/ffffff?text=Login+Area",
+      "keywords": "login, dashboard"
+    },
+    "/privacy-policy": {
+      "title": "Kebijakan Privasi",
+      "description": "Kebijakan privasi data pengguna.",
+      "image": "https://placehold.co/1200x630/334155/ffffff?text=Privacy+Policy",
+      "keywords": "privasi, data"
+    },
+    "/terms-of-service": {
+      "title": "Syarat & Ketentuan",
+      "description": "Syarat dan ketentuan layanan.",
+      "image": "https://placehold.co/1200x630/334155/ffffff?text=Terms+of+Service",
+      "keywords": "syarat, ketentuan"
+    },
+    "/license": {
+      "title": "Lisensi & Atribusi",
+      "description": "Informasi lisensi dan hak cipta.",
+      "image": "https://placehold.co/1200x630/334155/ffffff?text=License",
+      "keywords": "lisensi, hak cipta"
+    }
+  }
+}

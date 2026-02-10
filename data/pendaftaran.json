@@ -1,0 +1,72 @@
+{
+  "sidebar": {
+    "badge": "PENDAFTARAN DIBUKA",
+    "title_prefix": "Bergabunglah",
+    "title_highlight": "Bersama Kami",
+    "title_suffix": "Sekarang",
+    "description": "Jadilah bagian dari komunitas yang dinamis dan berkembang. Temukan potensi terbaikmu di sini.",
+    "benefit_title": "Keuntungan Anggota",
+    "benefits": [
+      "Akses ke jaringan profesional",
+      "Pengembangan diri dan skill",
+      "Kesempatan kolaborasi proyek",
+      "Sertifikat keanggotaan"
+    ]
+  },
+  "fields": [
+    {
+      "id": "f1",
+      "field": "nama",
+      "label": "Nama Lengkap",
+      "hint": "Masukkan nama lengkap anda",
+      "icon": "User",
+      "tipe": "teks",
+      "required": true
+    },
+    {
+      "id": "f2",
+      "field": "telepon",
+      "label": "No. WhatsApp",
+      "hint": "08xxxxxxxxxx",
+      "icon": "Phone",
+      "tipe": "telpon",
+      "required": true
+    },
+    {
+      "id": "f3",
+      "field": "email",
+      "label": "Alamat Email",
+      "hint": "email@anda.com",
+      "icon": "Mail",
+      "tipe": "email",
+      "required": true
+    },
+    {
+      "id": "f4",
+      "field": "divisi",
+      "label": "Pilih Divisi Peminatan",
+      "hint": "Pilih salah satu divisi",
+      "icon": "Layers",
+      "tipe": "pilihan_divisi",
+      "required": true
+    },
+    {
+      "id": "f5",
+      "field": "alasan",
+      "label": "Alasan Bergabung",
+      "hint": "Ceritakan motivasi singkat anda...",
+      "icon": "PenTool",
+      "tipe": "teks_panjang",
+      "required": true
+    },
+    {
+      "id": "f6",
+      "field": "diri",
+      "label": "Deskripsi Diri",
+      "hint": "Ceritakan singkat tentang diri anda...",
+      "icon": "PenTool",
+      "tipe": "teks_panjang",
+      "required": true
+    }
+  ]
+}

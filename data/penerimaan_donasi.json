@@ -1,0 +1,14 @@
+
+[
+  {
+    "id": 1,
+    "campaign_id": 1,
+    "campaign_title": "Bantuan Pendidikan Yatim Piatu",
+    "nominal": 100000,
+    "nama_donatur": "Hamba Allah",
+    "is_anonim": true,
+    "metode_pembayaran": "Bank A - 1234567890",
+    "tanggal": "2025-02-20",
+    "status": "VERIFIED"
+  }
+]

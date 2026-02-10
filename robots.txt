@@ -1,0 +1,11 @@
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /area-anggota/
+Disallow: /pembayaran/
+Disallow: /mynoted/
+Disallow: /login
+Disallow: /cgi-bin/
+
+Sitemap: https://kopelstudio.pwk/sitemap.xml

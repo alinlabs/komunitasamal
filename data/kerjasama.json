@@ -1,0 +1,42 @@
+{
+  "layanan": [
+    {
+      "ikon": "Handshake",
+      "judul": "Event Sponsorship",
+      "deskripsi": "Dukung acara tahunan, pameran, atau workshop kami dan dapatkan eksposur brand yang luas."
+    },
+    {
+      "ikon": "Megaphone",
+      "judul": "Media Partner",
+      "deskripsi": "Kolaborasi pertukaran publikasi untuk memperluas jangkauan audiens acara atau kampanye anda."
+    },
+    {
+      "ikon": "Briefcase",
+      "judul": "Creative Service",
+      "deskripsi": "Layanan jasa kreatif profesional dari talenta-talenta terbaik komunitas kami."
+    }
+  ],
+  "paket": {
+    "silver": {
+      "judul": "Silver Partner",
+      "subjudul": "Cocok untuk UMKM / Brand Lokal",
+      "fitur": ["Logo Kecil di Banner", "Ad-libs MC", "Postingan Sosial Media", "Sertifikat"]
+    },
+    "gold": {
+      "judul": "Gold Partner",
+      "subjudul": "Untuk Eksposur Maksimal",
+      "fitur": ["Logo Sedang di Semua Materi", "Ad-libs Lebih Banyak", "Feed & Story", "Booth di Lokasi", "Logo di Video"]
+    },
+    "platinum": {
+      "judul": "Platinum",
+      "subjudul": "Eksklusifitas Brand Utama",
+      "fitur": ["Logo Utama (Terbesar)", "Ad-libs Unlimited", "Konten Dedikasi", "Sesi Talkshow", "Akses Data", "Hak Eksklusif"]
+    }
+  },
+  "langkah": [
+    { "nomor": "01", "teks": "Ajukan penawaran melalui kontak kami" },
+    { "nomor": "02", "teks": "Diskusi & Penyesuaian Benefit" },
+    { "nomor": "03", "teks": "Penandatanganan MoU Kerjasama" },
+    { "nomor": "04", "teks": "Eksekusi & Laporan" }
+  ]
+}

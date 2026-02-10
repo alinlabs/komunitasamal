@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "id_anggota": "ID-001",
+    "penulis": "Nama Anggota",
+    "judul": "Judul Catatan",
+    "isi": "Isi catatan atau draft tulisan anggota.",
+    "kategori": "Ide",
+    "tanggal": "2025-01-01",
+    "terakhir_diedit": "2025-01-02"
+  }
+]

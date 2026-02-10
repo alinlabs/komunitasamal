@@ -1,0 +1,103 @@
+
+[
+  {
+    "id": 1,
+    "id_anggota": "ID-001",
+    "nama": "Nama Anggota 1",
+    "email": "anggota1@contoh.com",
+    "kata_sandi": "123",
+    "telepon": "081234567001",
+    "tahun_gabung": "2023",
+    "peran": "Peran / Keahlian",
+    "divisi": "LITERASI",
+    "foto": "https://placehold.co/300x300/10b981/ffffff?text=Foto+Anggota",
+    "bio": "Bio singkat anggota. Minat, passion, dan keahlian.",
+    "keahlian": ["Skill A", "Skill B", "Skill C"],
+    "pengalaman_kerja": [
+        { "perusahaan": "Perusahaan A", "posisi": "Posisi A", "tahun": "2023 - Sekarang" }
+    ],
+    "sosial_media": {
+        "instagram": "username",
+        "twitter": "username",
+        "linkedin": "#",
+        "website": "#"
+    }
+  },
+  {
+    "id": 2,
+    "id_anggota": "ID-002",
+    "nama": "Nama Anggota 2",
+    "email": "anggota2@contoh.com",
+    "kata_sandi": "123",
+    "telepon": "081234567002",
+    "tahun_gabung": "2023",
+    "peran": "Peran / Keahlian",
+    "divisi": "FOTOGRAFI",
+    "foto": "https://placehold.co/300x300/0ea5e9/ffffff?text=Foto+Anggota",
+    "bio": "Bio singkat anggota. Minat, passion, dan keahlian.",
+    "keahlian": ["Skill A", "Skill B"],
+    "pengalaman_kerja": [
+        { "perusahaan": "Perusahaan B", "posisi": "Posisi B", "tahun": "2022" }
+    ],
+    "sosial_media": {
+        "instagram": "username",
+        "website": "#"
+    }
+  },
+  {
+    "id": 3,
+    "id_anggota": "ID-003",
+    "nama": "Nama Anggota 3",
+    "email": "anggota3@contoh.com",
+    "kata_sandi": "123",
+    "telepon": "081234567003",
+    "tahun_gabung": "2024",
+    "peran": "Peran / Keahlian",
+    "divisi": "SINEMATOGRAFI",
+    "foto": "https://placehold.co/300x300/facc15/ffffff?text=Foto+Anggota",
+    "bio": "Bio singkat anggota.",
+    "keahlian": ["Skill A", "Skill B"],
+    "pengalaman_kerja": [],
+    "sosial_media": {
+        "youtube": "#",
+        "instagram": "username"
+    }
+  },
+  {
+    "id": 4,
+    "id_anggota": "ID-004",
+    "nama": "Nama Anggota 4",
+    "email": "anggota4@contoh.com",
+    "kata_sandi": "123",
+    "telepon": "081234567004",
+    "tahun_gabung": "2024",
+    "peran": "Peran / Keahlian",
+    "divisi": "JURNALISTIK",
+    "foto": "https://placehold.co/300x300/10b981/ffffff?text=Foto+Anggota",
+    "bio": "Bio singkat anggota.",
+    "keahlian": ["Skill A"],
+    "pengalaman_kerja": [],
+    "sosial_media": {
+        "twitter": "username"
+    }
+  },
+  {
+    "id": 5,
+    "id_anggota": "ID-005",
+    "nama": "Nama Anggota 5",
+    "email": "anggota5@contoh.com",
+    "kata_sandi": "123",
+    "telepon": "081234567005",
+    "tahun_gabung": "2022",
+    "peran": "Peran / Keahlian",
+    "divisi": "PEMROGRAMAN",
+    "foto": "https://placehold.co/300x300/0ea5e9/ffffff?text=Foto+Anggota",
+    "bio": "Bio singkat anggota.",
+    "keahlian": ["Skill A", "Skill B"],
+    "pengalaman_kerja": [],
+    "sosial_media": {
+        "website": "#",
+        "linkedin": "#"
+    }
+  }
+]

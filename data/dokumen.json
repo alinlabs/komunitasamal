@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "judul": "Judul Dokumen (Misal: Tata Tertib)",
+    "nomor_dokumen": "001/DOK/ORG/202X",
+    "kategori": "TATA_TERTIB",
+    "isi": "Isi dokumen atau peraturan ditulis di sini.\n\nPasal 1\n...\n\nPasal 2\n...",
+    "tanggal_terbit": "202X-01-01",
+    "penanda_tangan": "Ketua Umum"
+  }
+]

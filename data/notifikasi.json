@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "judul": "Selamat Datang di Sistem Baru",
+    "pesan": "Sistem informasi komunitas kini telah aktif. Silakan lengkapi profil Anda.",
+    "tanggal": "2025-01-01",
+    "tipe": "SYSTEM",
+    "pengirim": "Admin",
+    "target": "ALL"
+  },
+  {
+    "id": 2,
+    "judul": "Pengingat Pembayaran",
+    "pesan": "Mohon untuk segera melunasi kewajiban iuran bulan ini.",
+    "tanggal": "2025-01-05",
+    "tipe": "INFO",
+    "pengirim": "Bendahara",
+    "target": "ANGGOTA"
+  },
+  {
+    "id": 3,
+    "judul": "Rapat Umum Anggota",
+    "pesan": "Rapat akan diadakan akhir bulan ini. Kehadiran bersifat wajib.",
+    "tanggal": "2025-01-10",
+    "tipe": "WARNING",
+    "pengirim": "Sekretaris",
+    "target": "ALL"
+  }
+]

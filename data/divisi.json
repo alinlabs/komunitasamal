@@ -1,0 +1,94 @@
+
+[
+  {
+    "id": "tanggap-bencana",
+    "judul": "Tanggap Bencana",
+    "ikon": "Camera",
+    "deskripsi": "Unit respon cepat untuk evakuasi, logistik, dan pemulihan pasca bencana alam.",
+    "warna": "emerald",
+    "gradasi_bg": "from-emerald-500 to-teal-600",
+    "sampul": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?q=80&w=1600&auto=format&fit=crop",
+    "program_kerja": [
+      "Pelatihan SAR Dasar",
+      "Distribusi Logistik Darurat",
+      "Trauma Healing"
+    ],
+    "dokumentasi": [
+      "https://placehold.co/600x600/10b981/ffffff?text=Evakuasi",
+      "https://placehold.co/600x600/10b981/ffffff?text=Dapur+Umum"
+    ],
+    "ketua": {
+      "nama": "Budi Santoso",
+      "foto": "https://placehold.co/300x300/10b981/ffffff?text=BS",
+      "quote": "Kecepatan dan ketepatan adalah kunci menyelamatkan nyawa."
+    }
+  },
+  {
+    "id": "pendidikan",
+    "judul": "Pendidikan",
+    "ikon": "BookOpen",
+    "deskripsi": "Memberikan akses pendidikan layak bagi anak-anak di daerah terpencil dan prasejahtera.",
+    "warna": "sky",
+    "gradasi_bg": "from-sky-500 to-blue-500",
+    "sampul": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=1600&auto=format&fit=crop",
+    "program_kerja": [
+      "Sekolah Alam",
+      "Beasiswa Anak Asuh",
+      "Perpustakaan Keliling"
+    ],
+    "dokumentasi": [
+      "https://placehold.co/600x600/0ea5e9/ffffff?text=Mengajar",
+      "https://placehold.co/600x600/0ea5e9/ffffff?text=Buku"
+    ],
+    "ketua": {
+      "nama": "Siti Aminah",
+      "foto": "https://placehold.co/300x300/0ea5e9/ffffff?text=SA",
+      "quote": "Pendidikan adalah senjata paling ampuh untuk mengubah dunia."
+    }
+  },
+  {
+    "id": "kesehatan",
+    "judul": "Kesehatan",
+    "ikon": "Mic",
+    "deskripsi": "Layanan kesehatan gratis dan penyuluhan hidup sehat untuk masyarakat kurang mampu.",
+    "warna": "emerald",
+    "gradasi_bg": "from-emerald-500 to-green-600",
+    "sampul": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1600&auto=format&fit=crop",
+    "program_kerja": [
+      "Pengobatan Gratis",
+      "Khitanan Massal",
+      "Ambulans Gratis"
+    ],
+    "dokumentasi": [
+      "https://placehold.co/600x600/10b981/ffffff?text=Medis",
+      "https://placehold.co/600x600/10b981/ffffff?text=Penyuluhan"
+    ],
+    "ketua": {
+      "nama": "Dr. Rahmat",
+      "foto": "https://placehold.co/300x300/10b981/ffffff?text=DR",
+      "quote": "Sehat adalah hak setiap manusia tanpa terkecuali."
+    }
+  },
+  {
+    "id": "sosial-kemanusiaan",
+    "judul": "Sosial Kemanusiaan",
+    "ikon": "Feather",
+    "deskripsi": "Bantuan sosial, santunan yatim dhuafa, dan pemberdayaan masyarakat.",
+    "warna": "yellow",
+    "gradasi_bg": "from-yellow-500 to-orange-500",
+    "sampul": "https://images.unsplash.com/photo-1593113646773-028c64a8f1b8?q=80&w=1600&auto=format&fit=crop",
+    "program_kerja": [
+      "Jumat Berkah",
+      "Santunan Yatim",
+      "Bedah Rumah"
+    ],
+    "dokumentasi": [
+      "https://placehold.co/600x600/facc15/ffffff?text=Baksos"
+    ],
+    "ketua": {
+      "nama": "H. Ahmad",
+      "foto": "https://placehold.co/300x300/facc15/ffffff?text=HA",
+      "quote": "Sebaik-baik manusia adalah yang paling bermanfaat bagi sesamanya."
+    }
+  }
+]
